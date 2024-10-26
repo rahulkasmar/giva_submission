@@ -160,9 +160,9 @@ To run this project, you will need to add the following environment variables to
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Feedback
+## Structure
 
-Joseph Odunsi - [@odunsi](https://twitter.com/_odunsi_) - odunsiolakunbi@gmail.com
+
 
 Project Link: [https://github.com/dhatguy/PERN-Store](https://github.com/dhatguy/PERN-Store)
 
